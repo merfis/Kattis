@@ -11,4 +11,6 @@ int main()
     std::cin >> s;
   }
   std::cout << p << std::endl;
+
+  return 0;
 }
